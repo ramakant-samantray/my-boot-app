@@ -43,6 +43,8 @@ public class Person {
 		return "Person [firstname=" + firstname + ", hobby=" + hobby + "]";
 	}
 	
-	
+	public void getMessage() {
+		System.out.println("here stash is completed");
+	}
 
 }
