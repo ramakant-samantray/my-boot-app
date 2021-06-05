@@ -46,6 +46,7 @@ public class Person {
 	public void getMessage() {
 		System.out.println("here stash is completed");
 		System.out.println("example of conflicts");
+		System.out.println("ramakant is addin file");
 	}
 
 }
